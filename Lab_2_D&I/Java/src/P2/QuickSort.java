@@ -49,7 +49,7 @@ public class QuickSort {
 		
 		// Sort each array using QuickSort and then check if they are really sorted
 		for (int[] v : arr) {
-			sort(v, 0, v.length);
+			sort(v, 0, v.length - 1);
 			System.out.println("Your sorted array is:");
 			for (int elem : v) {
 				System.out.print(elem + " ");
