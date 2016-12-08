@@ -1,0 +1,17 @@
+16 16
+Analiza Algoritmilor → Proiectarea Algoritmilor
+Programarea Calculatoarelor → Proiectarea Algoritmilor
+Structuri de Date → Proiectarea Algoritmilor
+Proiectarea Algoritmilor → Algoritmi Paraleli si Distribuiti
+Protocoale de Comunicatie → Algoritmi Paraleli si Distribuiti
+Structuri de Date → Analiza Algoritmilor
+Programarea Calculatoarelor → Protocoale de Comunicatie
+Protocoale de Comunicatie → Retele Locale
+Algoritmi Paraleli si Distribuiti → Algoritmi si Prelucrari Paralele
+Arhitectura Sistemelor de Calcul → Algoritmi si Prelucrari Paralele
+Matematica 1 → Matematica 2
+Matematica 2 → Matematici speciale
+Matematica 1 → Fizica
+Fizica → Electrotehnica
+Fizica → Electronica Analogica
+Electronica Analogica → Electronica Digitala
